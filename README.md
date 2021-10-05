@@ -2,7 +2,7 @@
 
 **Used in publications**:
 
-> Bhanji, Kim, & Delgado (2016), also see Bhanji & Delgado (2014)
+> Bhanji, Kim, & Delgado (2016 - pdf of manuscript and supplement are included in this repository as "BhanjiKimDelgado2016.pdf" and "BhanjiKimDelgado2016JEPG_Supplement.pdf"), also see Bhanji & Delgado (2014)
 
 **Important Filenames (in the TaskFiles folder):**
 
